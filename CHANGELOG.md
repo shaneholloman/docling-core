@@ -1,3 +1,17 @@
+## [v2.75.0](https://github.com/docling-project/docling-core/releases/tag/v2.75.0) - 2026-05-12
+
+### Feature
+
+* Updated the HTML serialization ([#609](https://github.com/docling-project/docling-core/issues/609)) ([`014948b`](https://github.com/docling-project/docling-core/commit/014948b0e86b34af36843479773ab2d7718bf7df))
+
+### Fix
+
+* **DocLang:** Fix chemistry serialization. ([#607](https://github.com/docling-project/docling-core/issues/607)) ([`48c5b97`](https://github.com/docling-project/docling-core/commit/48c5b97593defb632405b8351b1ba73dc5b057b6))
+
+### Documentation
+
+* **security:** Document security processes ([#606](https://github.com/docling-project/docling-core/issues/606)) ([`6a6512e`](https://github.com/docling-project/docling-core/commit/6a6512ebe48e88974117dcecbb29d41b66b9f8d0))
+
 ## [v2.74.1](https://github.com/docling-project/docling-core/releases/tag/v2.74.1) - 2026-04-22
 
 ### Fix
